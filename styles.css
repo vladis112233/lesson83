@@ -1,0 +1,117 @@
+h1{
+    text-align: center;
+    background: goldenrod;
+    color: aqua;
+    margin: 0 auto;
+     }
+    
+    body{
+      background: rgb(50, 173, 83);
+     }
+    
+     h2{
+       text-align: center;
+       border: yellow;
+       background: olive;
+       margin: 0 auto;
+       color: aquamarine;
+     }
+    p{
+      text-align: center;
+      margin: 0 auto;
+      border: 20 px dotted salmon;
+      width: 600px;
+      background: goldenrod;
+     }
+    h3{
+      text-align: center;
+      margin: 0 auto;
+      color: rgb(134, 17, 31);
+      background: yellow;
+    
+     }
+     
+     img{
+      height: 350px;
+    }
+    
+    .inter_1{
+      background: gray;
+      margin: 0 auto;
+    }
+    
+    .con_1{
+      background: yellow;
+      width: 1200px;
+      margin: 0 auto;
+      
+    }
+     
+    .in_t{
+      width: 400px;
+      background: orange;
+      outline: 2px solid black;
+      display: table-cell;
+      padding: 30px 0;
+    } 
+    
+    
+    .table_1{
+      width: 600px;
+      background: orange;
+      display: table-cell;
+     
+    }
+    
+    .input_1{
+      outline: 2px solid black;
+    }
+    
+    .input_2{
+      outline: 2px solid black;
+      height: 71px;
+    }
+
+    .table_2{
+      width: 600px;
+      background: orange;
+      display: table-cell;
+      outline: 2px solid black;
+    }
+
+    .input_3{
+      outline: 2px solid black;
+    }
+    
+    .input_4{
+      outline: 1px solid black;
+      display: table-cell;
+    }
+    
+    .table_3{
+      width: 600px;
+      background: orange;
+      display: table-cell;
+      outline: 2px solid black;
+    }
+    
+    .input_6{
+      outline: 2px solid black;
+      display: table-cell;
+    }
+
+    .trx_1{
+      outline: 2px solid black;
+    }
+
+
+
+
+
+
+
+
+    
+  
+     
+     
